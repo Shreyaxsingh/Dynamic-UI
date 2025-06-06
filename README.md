@@ -5,13 +5,15 @@ A frontend React project to interact with PostgreSQL databases. Includes:
 - Connect to DB form
 - Editable table view
 
+  💻 Tech Stack
+	•	React
+	•	TypeScript
+	•	CSS
+
 🚀 How to Run
 
 ```bash
 npm install
 npm start
 
-💻 Tech Stack
-	•	React
-	•	TypeScript
-	•	CSS
+
